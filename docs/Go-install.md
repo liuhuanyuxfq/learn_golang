@@ -17,6 +17,6 @@
 	go version
 ## GOPATH目录结构：
 	/root/go/
-		--/src/  存放源代码(.go .c .h .s等)
+	    --/src/  存放源代码(.go .c .h 等)
 	    --/pkg/　　编译后生成的文件(.a)
 	    --/bin/　　编译后生成的可执行文件
