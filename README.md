@@ -1,2 +1,2 @@
 # learn_golang
-the journey of learning goang
+the journey of learning goang.
