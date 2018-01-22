@@ -7,7 +7,10 @@
 选择安装路径，自定义安装
 ## 4.激活
 软件试用期30天，目前可以使用License Server方式激活
-`server address`填写`http://intellij.mandroid.cn/`
+`server address`填写`http://intellij.mandroid.cn/`；
+如果过期，试试`http://idea.youbbs.org`
+
+也可以自己搭建License Server，具体见[自己搭建License Server](https://www.jetbrains.com/help/license_server/getting_started.html)
 ## 5.激活后正常使用，常用快捷键如下：
 ### 文件相关快捷键
     CTRL+E，打开最近浏览过的文件。
