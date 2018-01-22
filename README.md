@@ -7,4 +7,4 @@ the journey of learning goang.
 	- [Go编辑器安装](docs/Go-IDE-install.md)
 	- [Hello world](docs/hello-world.md)
 - 第二篇：Go基础知识
-	- [基本语法](docs/hello-world.md)
+	- [基本语法](docs/base-grammar.md)
