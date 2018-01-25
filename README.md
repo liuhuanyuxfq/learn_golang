@@ -8,3 +8,5 @@ the journey of learning goang.
 	- [Hello world](docs/hello-world.md)
 - 第二篇：Go基础知识
 	- [基本语法](docs/base-grammar.md)
+- 第三篇：简单应用
+	- [邮件告警示例](docs/mail-alarm.md)

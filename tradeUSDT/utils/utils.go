@@ -7,7 +7,7 @@ import (
 	"net/smtp"
 )
 
-// Http Get请求基础函数, 通过封装Go语言Http请求, 支持火币网REST API的HTTP Get请求
+// Http Get请求基础函数, 通过封装Go语言Http请求
 // strUrl: 请求的URL
 // strParams: string类型的请求参数, user=lxz&pwd=lxz
 // return: 请求结果
