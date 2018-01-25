@@ -40,6 +40,7 @@ func checkPrice() {
 }
 
 func main() {
+	checkPrice()
 	for range time.Tick(config.CYCLE * time.Second) {
 		checkPrice()
 	}
