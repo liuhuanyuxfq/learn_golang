@@ -7,6 +7,7 @@
 - models：模型结构定义
 - services：具体的业务逻辑，请求RESTAPI获取相应数据
 - utils：工具，包括Http请求封装、发送邮件等
+- tradeUSDT：程序的入口，每间隔一段时间检查一次
 ## 代码片段
 - utils.go用来学习封装Http Get请求和发送邮件
 
